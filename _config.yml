@@ -1,24 +1,36 @@
-name: Jeremiah Cox
-favicon: null
-layout_spectrum: 0.4389483192935586
-typography_spectrum: 0.6935003574471921
 title: Jeremiah Cox Dot Com
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.546595
+  lightness: 0.8387097
+  brandStrength: 0.6785309368278831
+  brandColors: []
+  rhythmicContrast: 0.3673835
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Jeremiah Cox
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.6785309368278831
-  lightness: 0.2930636534001678
-  saturation: 0.19367003091610968
-  rhythmicContrast: 0.21703611384145916
-purpose: []
+typography_spectrum: 0.6935003574471921
+layout_spectrum: 0.953405
