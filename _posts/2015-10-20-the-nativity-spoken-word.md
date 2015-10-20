@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/114258358'
+inLanguage: en
+starred: false
+keywords:
+  - widget
+  - videos
+  - hmm
+  - really
+  - jeremiah
+  - cox
+  - nifty
+  - love
+  - quest
+  - chad
+description: 'A retelling of the nativity story. Made for Quest Church, Christmas 2014'
+datePublished: '2015-10-20T17:07:12.981Z'
+dateModified: '2015-10-20T17:06:45.497Z'
 author:
   - name: Quest Church
     url: 'http://vimeo.com/questwired'
@@ -14,38 +34,20 @@ author:
           - 14
           - 14
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords:
-  - widget
-  - videos
-  - hmm
-  - really
-  - jeremiah
-  - cox
-  - nifty
-  - love
-  - quest
-  - chad
-description: "Created for Quest Church's Christmas series Written by Chad Howard Filmed and directed by Jeremiah Cox"
-inLanguage: en
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/114258358'
     type: ios
     app_store_id: '425194759'
     app_name: Vimeo
-isBasedOnUrl: 'https://vimeo.com/114258358'
 title: 'The Nativity [spoken word]'
-datePublished: '2015-10-20T17:04:28.917Z'
-dateModified: '2015-10-20T17:03:21.195Z'
 sourcePath: _posts/2015-10-20-the-nativity-spoken-word.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
