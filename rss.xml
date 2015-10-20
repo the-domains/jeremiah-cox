@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jeremiah Cox]]></title>
+        <description><![CDATA[Jeremiah Cox]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 17:04:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Nativity [spoken word]]]></title>
+            <description><![CDATA[<article><h1>The Nativity [spoken word]</h1><p>Created for Quest Church's Christmas series Written by Chad Howard Filmed and directed by Jeremiah Cox</p><img src="http://i.vimeocdn.com/video/499870840_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/114258358</link>
+            <guid isPermaLink="false">e6563411-a215-4bb6-af7b-d3b81a7af533</guid>
+            <pubDate>Tue, 20 Oct 2015 17:04:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
