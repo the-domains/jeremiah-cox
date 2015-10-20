@@ -17,8 +17,8 @@ keywords:
   - quest
   - chad
 description: 'A retelling of the nativity story. Made for Quest Church, Christmas 2014'
-datePublished: '2015-10-20T17:07:12.981Z'
-dateModified: '2015-10-20T17:06:45.497Z'
+datePublished: '2015-10-20T17:08:56.785Z'
+dateModified: '2015-10-20T17:07:12.981Z'
 author:
   - name: Quest Church
     url: 'http://vimeo.com/questwired'
